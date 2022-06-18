@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @finndude
-- 👀 I’m interested in coding, mainly GUI's
+- 👀 I’m interested in coding, particullarly AI and GUI development
 - 🌱 I’m currently learning python
 - 📫 How to reach me finleyww@hotmail.co.uk
 
