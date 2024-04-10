@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @finndude
 - 👀 I’m interested in coding, particullarly AI and GUI development
-- 🌱 I’m currently learning python
+- 🌱 I’m currently studying at the University of Nottingham
 - 📫 How to reach me finleyww@hotmail.co.uk
 
 <!---
